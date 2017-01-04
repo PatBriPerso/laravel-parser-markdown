@@ -34,7 +34,7 @@ This is **Laravel 5** package for parsing markdown files or strings. Supports bo
 Via `composer` run following command in your project root:
 
 ```bash
-composer require vi-kon/laravel-markdown-parser
+composer require vi-kon/laravel-parser-markdown
 ```
 
 In your Laravel 5 project add following lines to `app.php`:
